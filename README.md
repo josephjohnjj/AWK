@@ -5,18 +5,15 @@ This folder contains the required material to get a beginner level knowledge in 
 
 | Topic                                                                 | Target Audience       |
 | --------------------------------------------------------------------- | --------------------- |
-| [Setting number of threads](01.md)                         | Beginner              |
-| [Scope of the variable](02.md)                         | Beginner              |
-| [Race Condition](03.md)                                | Beginner              |
-| [Critical Section](04.md)				| Beginner              |
-| [Single and Master](05.md)                              | Beginner              |
-| [Sections](06.md)                                            | Beginner              |
-| [Parallel for](07.md)                                    | Beginner              |
-| [Reduction](08.md)                                          | Beginner              |
-| [Private, lastprivate, firstprivate ](09.md)       | Beginner              |
-| [Schedules](10.md)                                          | Intermediate/Advanced |
-| [Tasks](11.md)                                                  | Advanced              |
-| [Profiling](12.md)                                          | Advanced              |
+| [Printing the entire file](01.md)                         | Beginner              |
+| [Begin block](02.md)                         | Beginner              |
+| [Printing specific Columns](03.md)                                | Beginner              |
+| [Pattern matching ](04.md)				| Beginner              |
+| [Pattern matching and specific collumns](05.md)                              | Beginner              |
+| [Variables and operations](06.md)                                            | Beginner              |
+| [Length of a line](07.md)                                    | Beginner              |
+| [Varibales and operations](08.md)                                          | Beginner              |
+| [Regular expression ](09.md)                                   | Beginner              |
 
 
 ## References
