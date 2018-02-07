@@ -1,2 +1,0 @@
-# AWK
-Programs in AWK
