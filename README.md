@@ -3,20 +3,20 @@ This folder contains the required material to get a beginner level knowledge in 
 
 ## Sections
 
-| Topic                                                  | Target Audience       |
-| -------------------------------------------------------| --------------------- |
-| [First Program] (01-Program.md)                        | Beginner              |
-| [Second Program] (02-Program.md                        | Beginner              |
-| [Third Program] (03-Program.md)                        | Beginner              |
-| [Fourth Program] (04-Program.md)              		 | Beginner              |
-| [Fifth Program] (05-Program.md)                        | Beginner              |
-| [Sixth Program] (06-Program.md)                        | Beginner              |
-| [Seventh Program](07-Program.md)                       | Beginner              |
-| [Eighth Program] (08-Program.md)                       | Beginner              |
-| [Nineth Program ](09-Program.md)                       | Beginner              |
-| [Tenth Program](10-Program.md)                         | Beginner              |
-| [](10-tasks.md)                                                | Advanced              |
-| [Profiling](11-profiling.md)                                          | Advanced              |
+| Topic                                                                 | Target Audience       |
+| --------------------------------------------------------------------- | --------------------- |
+| [Setting number of threads](01.md)                         | Beginner              |
+| [Scope of the variable](02.md)                         | Beginner              |
+| [Race Condition](03.md)                                | Beginner              |
+| [Critical Section](04.md)				| Beginner              |
+| [Single and Master](05.md)                              | Beginner              |
+| [Sections](06.md)                                            | Beginner              |
+| [Parallel for](07.md)                                    | Beginner              |
+| [Reduction](08.md)                                          | Beginner              |
+| [Private, lastprivate, firstprivate ](09.md)       | Beginner              |
+| [Schedules](10.md)                                          | Intermediate/Advanced |
+| [Tasks](11.md)                                                  | Advanced              |
+| [Profiling](12.md)                                          | Advanced              |
 
 
 ## References
