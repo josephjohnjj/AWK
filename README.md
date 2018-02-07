@@ -12,7 +12,7 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Pattern matching and specific collumns](05.md)                              | Beginner              |
 | [Variables and operations](06.md)                                            | Beginner              |
 | [Length of a line](07.md)                                    | Beginner              |
-| [Varibales and operations](08.md)                                          | Beginner              |
+| [Operators](08.md)                                          | Beginner              |
 | [Regular expression ](09.md)                                   | Beginner              |
 
 
